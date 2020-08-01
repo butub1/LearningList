@@ -1,18 +1,8 @@
 # 一个老鸟发的公司内部整理的 Android 学习路线图 Markdown 版本
 
-[jixiaohua](http://www.diycode.cc/jixiaohua)发了一篇`一个老鸟也发了一份他给公司内部小伙伴整理的路线图`。[另一份 Android 开发学习路线图](http://www.diycode.cc/topics/117)。可惜不是MarkDown格式的，所以[jixiaohua](http://www.diycode.cc/jixiaohua)直接上传的截图，在[jixiaohua](http://www.diycode.cc/jixiaohua)的呼吁下，我花了些时间，把这篇大牛的推荐清单编辑成了Markdown格式，方便大家浏览，学习。
+from: https://www.jianshu.com/p/d7314650d8b7、
 
-有一些链接可能还不是特别准确，因为我只能根据图片上的书或者资源的名字去Google可能的书籍，所以链接上有什么不对的，欢迎大家评论指出，我会及时更正。请参考原文：[另一份 Android 开发学习路线图](http://www.diycode.cc/topics/117) 帮助修改。谢谢。
-
-1. 基础工具部分： 中文手册，我猜c测是Maven中文手册，可是我并没有找到这样的资源，欢迎知道的朋友告诉我；
-2. Android部分有 『第三方库集合』，我没能找到资源地址；
-3. 书籍我大多是给的豆瓣链接，如果觉得不合适可以替换一下；
-
-#### 关于Markdown表格
-
-本来我一开始整理了一份表格版本的, 用 Mou 写的，表格内的换行用<br/>标签处理的，但是在DiyCode上来发的时候，发现Markdown表格内部不支持<br/>标签换行，所以就只能整理成平铺的文档格式。~~Markdown对于表格的支持不是很强大。~~
-
-## 程序设计
+## ① 程序设计
 
 ### 一、java
 
@@ -86,7 +76,7 @@
 - [UniversalMusicePlayer](https://github.com/googlesamples/android-UniversalMusicPlayer) (通过学习一个音乐播放器的代码能很快了解四大组件)
 - [Android Training官方课程](http://hukai.me/android-training-course-in-chinese/index.html)
 - [Android一些重要知识点解析整理](https://github.com/FX-Max/Point-of-Android)
-- [Android UI/UX库](https://github.com/wasabeef/awesome-android-ui)（各类常用组件及扩展组件的集合）
+- [github awesome Android UI/UX库](https://github.com/wasabeef/awesome-android-ui)（各类常用组件及扩展组件的集合）
 - [Picasso](http://square.github.io/picasso/) 、 [Glide](https://github.com/bumptech/glide) （两个图片加载库）
 - [The Google I/O 2015 Android App](https://github.com/google/iosched) (Google大会官方的App，适合学习各类实现)
 - [Android开发技术前线](http://www.devtf.cn/) （定期翻译、发布国内外Android优质的技术、开源库、软件架构设计、测试等文章）
@@ -95,7 +85,7 @@
 
 ------
 
-## 软件工程
+## ② 软件工程
 
 ### 一、基础工具
 
