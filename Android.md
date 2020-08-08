@@ -1,6 +1,8 @@
 # 一个老鸟发的公司内部整理的 Android 学习路线图 Markdown 版本
 
-from: https://www.jianshu.com/p/d7314650d8b7、
+from: https://www.jianshu.com/p/d7314650d8b7
+
+部分链接，内网可能访问不了，知道书名即可。
 
 ## ① 程序设计
 

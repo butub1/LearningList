@@ -1,12 +1,12 @@
 ---
-Learn enough to be dangerous
+Learn enough tech to be dangerous
 ---
 
 # 学习一下
 
 持续维护一个学习列表，希望能够收集到各个领域最好的教材和课程，尽可能推荐自己读过的，或者了解到非常好的书和课程。
 
-- 非常希望大家分享自己推荐的书， 提交Pull Request 或者直接告诉[@barry](barry.zhuo@chinaentropy.com), 或者直接提交bug，能看到就行
+- 非常希望大家分享自己推荐的书， 提交Pull Request 或者直接告诉[@barry](http://172.18.202.254:8099/butub), 或者直接提交bug，能看到就行
 - P.S 其实各个方向的书，在知乎上搜一搜都会有比较好的推荐。
 
 ## 一、计算机本科学习
@@ -14,7 +14,8 @@ Learn enough to be dangerous
 ### 1.计算机组成原理
 
 * 《计算机组成与设计: 软硬件接口》相对清晰简单，主要基于Mips
-* [《深入理解计算机系统（第2版）》](https://www.amazon.cn/gp/product/B004BJ18KM/ref=as_li_ss_tl?ie=UTF8&camp=536&tag=lucida-23&creativeASIN=B004BJ18KM&linkCode=as2&creative=3132)
+* [《深入理解计算机系统（第2版）》](https://www.amazon.cn/gp/product/B004BJ18KM/ref=as_li_ss_tl?ie=UTF8&camp=536&tag=lucida-23&creativeASIN=B004BJ18KM&linkCode=as2&creative=3132) 又称作 CSAPP 
+* **《编码：隐匿在计算机软硬件背后的语言》**
 
 ### 2.操作系统
 
@@ -40,7 +41,8 @@ Learn enough to be dangerous
 
 ### 5.计算机网络
 
-* 教材 《计算机网络 谢希仁》，写的一般，只是够用
+* 教材 《计算机网络 谢希仁》，写的一般，只是够用，做了计算机网络实验才能明白书上在说啥。
+* 《计算机网络：自顶向下》听说比教材好一些。
 
 ### 6.数理基础
 
@@ -48,6 +50,7 @@ Learn enough to be dangerous
 
 * 《线性代数就应该这样学》
 * 《线性代数及其应用》
+*  《[Analysis I : Third Edition](https://link.zhihu.com/?target=https%3A//book.douban.com/subject/26866914/)》
 
 #### 微积分
 
@@ -69,11 +72,14 @@ Learn enough to be dangerous
 
 #### 最优化
 
-* [Numerical Optimization (豆瓣)](https://link.zhihu.com/?target=http%3A//book.douban.com/subject/2870337/) 
+* [数值最优化(Numerical Optimization)](https://link.zhihu.com/?target=http%3A//book.douban.com/subject/2870337/) 
+* [数值最优化笔记](https://zhuanlan.zhihu.com/p/53882647)
+* 《[Convex Optimization](https://link.zhihu.com/?target=https%3A//book.douban.com/subject/1888111/)》
 
 #### 其他
 
 * 《数学悖论与三次数学危机》讲数学史，围绕数学史上促使数学发展的悖论，讲述为什么我们现在的数学体系是现在这个样子，很推荐作为数学科普读物。
+* 《数学女孩》结城浩，有很多有趣的题目，轻松的数学读物，展现数学的美。
 
 ### 7.数据结构
 
@@ -85,12 +91,14 @@ Learn enough to be dangerous
 * 题库:
   * Leetcode
   * 洛谷
+  * codeforce
 
 ### 9.信息安全
 
 * CTF竞赛, 靶场
 * 密码学
 * [吾爱破解论坛](https://www.52pojie.cn/)
+* 反汇编 ida pro
 
 ## 10. 编程语言学习
 
@@ -106,7 +114,7 @@ Learn enough to be dangerous
 
 #### Java
 
-* [Java核心技术 卷I](https://u.jd.com/361zpk)
+* 《Java核心技术 卷I》
 
 #### C++
 
@@ -117,6 +125,10 @@ Learn enough to be dangerous
 
 * [ruby on rails tutorial](https://flapybooks.com/products/railstutorial6th)， 读完整本书，实现所有书上的功能，就能基本理解web的整套流程。
 * [ruby china 官方网站](https://ruby-china.org/) 
+
+### 11.数据库
+
+* 没学到啥，求大家推荐
 
 ## 二、方向分流
 
@@ -136,6 +148,8 @@ Learn enough to be dangerous
 * 花书 《深度学习》
 
 * 《统计机器学习 李航》
+
+* 《信号与系统》作为计算机视觉的先导课，重点是傅里叶变换
 
 * 课程，[吴恩达 深度学习](https://www.coursera.org/specializations/deep-learning), bilibili上有中文字幕, 零基础教学
 
