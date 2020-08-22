@@ -99,6 +99,7 @@ Learn enough tech to be dangerous
 * 密码学
 * [吾爱破解论坛](https://www.52pojie.cn/)
 * 反汇编 ida pro
+* [how to become a hacker](http://www.catb.org/~esr/faqs/hacker-howto.html)
 
 ## 10. 编程语言学习
 
@@ -111,6 +112,7 @@ Learn enough tech to be dangerous
 
 * 《python学习手册》有点庞杂，用来做工具书备查比较合适
 * 推荐先看 廖雪峰的教程，菜鸟教程快速上手。
+* 精通Python设计模式
 
 #### Java
 
@@ -176,7 +178,19 @@ see [人文社科](./Social-science.md)
 
 
 
+## 职场相关
+
+1. [提问的智慧(中文版)](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way/blob/master/README-zh_CN.md)
+2. [字节跳动成长方法卡](./ByteDance.md)
+
+
+
+## 开源书单
+
+* https://github.com/CyC2018/CS-Notes 109k star
+
 ## Log
 
+* 2020-8-22: 添加职场相关
 * 2020-8-1: 添加人文社科，补充部分链接
 * 2020-7-25: 创建列表
