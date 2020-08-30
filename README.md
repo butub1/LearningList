@@ -97,7 +97,7 @@ Learn enough tech to be dangerous
 
 > 江湖上仍然流传着他们的传说
 
-可以看一看一些公众号文章入门，https://zhuanlan.zhihu.com/p/39570487
+可以看一看一些公众号文章入门，https://zhuanlan.zhihu.com/p/39508502， 感受一下技术的美感
 
 * CTF竞赛, 靶场 
   * see https://www.zhihu.com/question/406929241/answer/1364968559
@@ -108,6 +108,7 @@ Learn enough tech to be dangerous
 * [how to become a hacker](http://www.catb.org/~esr/faqs/hacker-howto.html)
 * 最佳工具 [kali-linux](https://www.kali.org/downloads/)
 * 暗网可以去碰，可以去看，但是绝对不可以在上面买东西留下自己的痕迹
+* 电影《黑客军团》，配乐挺好听的
 
 ## 10. 编程语言学习
 
