@@ -88,6 +88,7 @@ Learn enough tech to be dangerous
 ### 8.ACM算法竞赛
 
 * 《算法竞赛入门经典 刘汝佳》入门比较适合，不过ACM的代码基本都不工程化，学习到思想就好。
+* ACM顶级选手的好玩的事情：https://zhuanlan.zhihu.com/p/139522195 **练习、练习、不断地练习！**
 * 题库:
   * Leetcode
   * 洛谷
