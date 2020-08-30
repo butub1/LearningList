@@ -95,11 +95,19 @@ Learn enough tech to be dangerous
 
 ### 9.信息安全
 
-* CTF竞赛, 靶场
+> 江湖上仍然流传着他们的传说
+
+可以看一看一些公众号文章入门，https://zhuanlan.zhihu.com/p/39570487
+
+* CTF竞赛, 靶场 
+  * see https://www.zhihu.com/question/406929241/answer/1364968559
+  * [CTF time](https://ctftime.org/) 全球CTF战队排名
 * 密码学
 * [吾爱破解论坛](https://www.52pojie.cn/)
 * 反汇编 ida pro
 * [how to become a hacker](http://www.catb.org/~esr/faqs/hacker-howto.html)
+* 最佳工具 [kali-linux](https://www.kali.org/downloads/)
+* 暗网可以去碰，可以去看，但是绝对不可以在上面买东西留下自己的痕迹
 
 ## 10. 编程语言学习
 
@@ -139,8 +147,8 @@ Learn enough tech to be dangerous
 ### 开发
 
 * [Android 方向 ](./Android.md) 
-* Web开发
-* 前端&UI
+* Web后端
+* [前端&UI](./FrontEnd.md)
 * [运维](./Operation-and-maintenance.md)
 
 ### 人工智能
@@ -169,12 +177,28 @@ Learn enough tech to be dangerous
 
   * [pytorch 官方教程](https://pytorch.org/tutorials/)
   * [动手学深度学习](https://github.com/ShusenTang/Dive-into-DL-PyTorch)
+  
+* [《可解释的机器学习》](https://github.com/MingchaoZhu/InterpretableMLBook)
 
 ### 人文社科
 
 * **笛卡尔的《方法论》**
 
 see [人文社科](./Social-science.md)
+
+
+
+## 三、好用的工具
+
+1. Typora 最好看舒服的markdown书写工具，写文档必备
+2. Tmux 非常方便的终端复用工具，在远程主机维持一个服务，可断线重连
+3. win上方便的终端模拟工具：
+   * git bash
+   * Windows Terminal 还不成熟，但是好看，win7 不支持
+   * Cmder
+   * 算了，还是用ubuntu或者Mac吧
+4. Vim 懂的都懂，有时间配置的话，不输任何IDE
+5. git 因为太重要，所以放在这里, [Git权威指南中文手册](http://iissnan.com/progit/html/zh/ch1_0.html)
 
 
 
@@ -188,9 +212,12 @@ see [人文社科](./Social-science.md)
 ## 开源书单
 
 * https://github.com/CyC2018/CS-Notes 109k star
+* https://github.com/iamshuaidi/CS-Book pdfs  4.3k star
+* https://github.com/justjavac/free-programming-books-zh_CN 69k star
 
 ## Log
 
-* 2020-8-22: 添加职场相关
-* 2020-8-1: 添加人文社科，补充部分链接
-* 2020-7-25: 创建列表
+* 2020-08-30: 添加前端UI\好用的工具
+* 2020-08-22: 添加职场相关
+* 2020-08-01: 添加人文社科，补充部分链接
+* 2020-07-25: 创建列表

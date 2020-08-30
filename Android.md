@@ -4,6 +4,8 @@ from: https://www.jianshu.com/p/d7314650d8b7
 
 部分链接，内网可能访问不了，知道书名即可。
 
+入门： 《第一行代码 android》
+
 ## ① 程序设计
 
 ### 一、java
