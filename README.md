@@ -120,9 +120,14 @@ Learn enough tech to be dangerous
 
 #### python
 
+* 《Python Cookbook（第 3 版）中文版》
+* Alex Martelli 的《Python 技术手册（第 2 版）》
+* David Beazley 的《Python 参考手册（第 4
+  版）》
 * 《python学习手册》有点庞杂，用来做工具书备查比较合适
 * 推荐先看 廖雪峰的教程，菜鸟教程快速上手。
 * 精通Python设计模式
+* 《流畅的python》推荐在有一定python基础和实践后阅读，比较多和解释器直接交互的部分，和Java的反射机制有点类似。
 
 #### Java
 
@@ -137,6 +142,8 @@ Learn enough tech to be dangerous
 
 * [ruby on rails tutorial](https://flapybooks.com/products/railstutorial6th)， 读完整本书，实现所有书上的功能，就能基本理解web的整套流程。
 * [ruby china 官方网站](https://ruby-china.org/) 
+* 《ruby元编程》对于理解动态语言很有帮助
+* The Art of the Metaobject Protocal （AMOP）
 
 ### 11.数据库
 
@@ -204,6 +211,15 @@ see [人文社科](./Social-science.md)
 
 
 
+## Them
+
+* [陈立杰](https://zhuanlan.zhihu.com/p/87460515)
+* 韩衍隽
+* 范浩强
+* 乔明达
+* 戴文渊
+* 唐文斌
+
 ## 职场相关
 
 1. [提问的智慧(中文版)](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way/blob/master/README-zh_CN.md)
@@ -215,7 +231,9 @@ see [人文社科](./Social-science.md)
 
 * https://github.com/CyC2018/CS-Notes 109k star
 * https://github.com/iamshuaidi/CS-Book pdfs  4.3k star
+* https://github.com/woai3c/recommended-books pdfs 直接下载  1.5k star
 * https://github.com/justjavac/free-programming-books-zh_CN 69k star
+* https://github.com/TonnnnnnyLiu/Books pdfs 直接下载 124 star
 
 ## Log
 
