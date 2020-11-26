@@ -6,7 +6,7 @@ Learn enough tech to be dangerous
 
 持续维护一个学习列表，希望能够收集到各个领域最好的教材和课程，尽可能推荐自己读过的，或者了解到非常好的书和课程。
 
-- 非常希望大家分享自己推荐的书， 提交Pull Request 或者直接告诉[@barry](http://172.18.202.254:8099/butub), 或者直接提交bug，能看到就行
+- 非常希望大家分享自己推荐的书， 提交Pull Request 或者直接告诉[@barry](http://172.18.202.254:8099/butub), 或者直接提交issue，能看到就行
 - P.S 其实各个方向的书，在知乎上搜一搜都会有比较好的推荐。
 
 ## 一、计算机本科学习
@@ -120,12 +120,11 @@ Learn enough tech to be dangerous
 
 #### python
 
+* 推荐先看**廖雪峰的教程**,**菜鸟教程**快速上手。
 * 《Python Cookbook（第 3 版）中文版》
 * Alex Martelli 的《Python 技术手册（第 2 版）》
-* David Beazley 的《Python 参考手册（第 4
-  版）》
+* David Beazley 的《Python 参考手册（第 4 版）》
 * 《python学习手册》有点庞杂，用来做工具书备查比较合适
-* 推荐先看 廖雪峰的教程，菜鸟教程快速上手。
 * 精通Python设计模式
 * 《流畅的python》推荐在有一定python基础和实践后阅读，比较多和解释器直接交互的部分，和Java的反射机制有点类似。
 
@@ -191,11 +190,7 @@ Learn enough tech to be dangerous
 
 ### 人文社科
 
-* **笛卡尔的《方法论》**
-
 see [人文社科](./Social-science.md)
-
-
 
 ## 三、好用的工具
 
@@ -205,13 +200,17 @@ see [人文社科](./Social-science.md)
    * git bash
    * Windows Terminal 还不成熟，但是好看，win7 不支持
    * Cmder
+   * Zsh 比 Bash 好用一些
    * 算了，还是用ubuntu或者Mac吧
 4. Vim 懂的都懂，有时间配置的话，不输任何IDE
 5. git 因为太重要，所以放在这里, [Git权威指南中文手册](http://iissnan.com/progit/html/zh/ch1_0.html)
+6. [《github漫游指南》](https://github.com/phodal/github) 学习github的一般使用
 
 
 
 ## Them
+
+> 可以看一下同时代的同学们在干什么
 
 * [陈立杰](https://zhuanlan.zhihu.com/p/87460515)
 * 韩衍隽
