@@ -133,7 +133,11 @@ Learn enough tech to be dangerous
 
 #### C++
 
-* 《C++ Primer》
+* 《C++ Primer》强烈推荐
+* 《Linxu高性能服务端编程》
+* 《**Effective C++**》
+* 《**STL源码剖析**》
+* 《深入探索C++对象模型》
 * 《C++ Primer Plus》读完半本，觉得一般，比较繁琐。
 
 #### ruby 小众
