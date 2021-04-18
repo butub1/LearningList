@@ -18,6 +18,7 @@ Learn enough tech to be dangerous
 
 ### 2.操作系统
 
+* 《操作系统之哲学原理》
 * [《Operating Systems: Three Easy Pieces》](http://pages.cs.wisc.edu/~remzi/OSTEP/), 必读, 神书
 * [清华大学操作系统实验课ucore](https://github.com/chyyuu/ucorebook_code)
 
