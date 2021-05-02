@@ -20,6 +20,7 @@ Learn enough tech to be dangerous
 
 * [《Operating Systems: Three Easy Pieces》](http://pages.cs.wisc.edu/~remzi/OSTEP/), 必读, 神书
 * [清华大学操作系统实验课ucore](https://github.com/chyyuu/ucorebook_code)
+* **《程序员的自我修养》链接、装载与库**
 
 ### 3.面向对象程序设计
 
@@ -28,6 +29,7 @@ Learn enough tech to be dangerous
 * 《大话设计模式》很通俗易懂，入门用
 * 《设计模式：可复用面向对象软件的基础》
 * 《编程珠玑》
+* 《复杂软件设计之道》
 
 ### 4.编译原理
 
@@ -79,6 +81,7 @@ Learn enough tech to be dangerous
 
 * 《数学悖论与三次数学危机》讲数学史，围绕数学史上促使数学发展的悖论，讲述为什么我们现在的数学体系是现在这个样子，很推荐作为数学科普读物。
 * 《数学女孩》结城浩，有很多有趣的题目，轻松的数学读物，展现数学的美。
+* 实分析/实变函数论？
 
 ### 7.数据结构
 
@@ -236,6 +239,12 @@ see [人文社科](./Social-science.md)
 * https://github.com/woai3c/recommended-books pdfs 直接下载  1.5k star
 * https://github.com/justjavac/free-programming-books-zh_CN 69k star
 * https://github.com/TonnnnnnyLiu/Books pdfs 直接下载 124 star
+
+## 集合书单
+
+1. http://paulgraham.com/books.html
+
+
 
 ## Log
 
