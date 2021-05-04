@@ -40,6 +40,10 @@ Learn enough tech to be dangerous
 * [llvm](https://github.com/llvm/llvm-project)  现代编译器，拥有非常好的IR--指令中间表示
 * [90min-scheme2c](http://community.schemewiki.org/?c=s&key=[[90min-scheme2c]]) 经典教程
 * 自己实现一个简单的编译器后，就能够比较好认识到代码具体在进行什么样的行为，其实所谓的语言，只是编译器和解释器的具体定义罢了。后续高级教程更多涉及编译优化，在编译器层面，自动化地去提升代码的性能。
+* 《The Little Schemer》
+* 《The Reasoned Schemer》
+* 《The Little Prover》
+* 《Compiling with Continuations》
 
 ### 5.计算机网络
 
@@ -217,14 +221,13 @@ see [人文社科](./Social-science.md)
 
 ## Them
 
-> 可以看一下同时代的同学们在干什么
-
 * [陈立杰](https://zhuanlan.zhihu.com/p/87460515)
 * 韩衍隽
 * 范浩强
 * 乔明达
 * 戴文渊
 * 唐文斌
+* [friedman](http://www.yinwang.org/blog-cn/2012/07/04/dan-friedman)
 
 ## 职场相关
 
